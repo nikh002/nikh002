@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me 
 - 😄 Pronouns: He
--   About me: _I have participated in the 1st hackthon at Kohlapur SGU._
+-   About me: _I have participated in the 1st hackathon at Kohlapur SGU._
 -   About Project: Statement-Real Time Community Alert System.
 -   Description:Develop a web-based community alert system that enables users to
 share real-time updates about local events, emergencies, or hazards. The platform
